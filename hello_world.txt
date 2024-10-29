@@ -1,3 +1,4 @@
+(Week 2)
 Initial Commit
 This is hello from Keene. I am adding a new line of code here.
 Hello again. I am here to add in a second line. I am Keene.
@@ -7,8 +8,11 @@ This is hello from Xue Wen. I am adding a new line of code here.
 
 This is hello from Shawn. I am adding a new line of code here.
 Hello again. I am here to add in a second line. I am Shawn.
+-----------------------------------------
+(Week 3)
+This is hello from Keene. I am adding a new line of code here for direct branch push
+Hello again. I am here to add in a second line for direct branch push. I am Keene.
 
-Part B2.2
 This is hello from Shawn, I am adding a new line of code for
 direct branch push
 Hello again. I am here to add in a second line for direct branch
